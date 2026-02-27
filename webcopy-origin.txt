@@ -1,0 +1,144 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@500;600;700;800&display=swap
+File Name: D:\sites clonados\promoonovabrasil.site\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://promoonovabrasil.site/tok/adskdjsa/
+File Name: D:\sites clonados\promoonovabrasil.site\tok\adskdjsa\index-1.htm
+Content Type: text/html
+
+re.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-v4compatibility.woff2
+File Name: D:\sites clonados\promoonovabrasil.site\ajax\libs\font-awesome\6.0.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Poppins:wght@400;500;600;700&display=swap
+File Name: D:\sites clonados\promoonovabrasil.site\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: D:\sites clonados\promoonovabrasil.site\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://promoonovabrasil.site/tok/backredirect/
+File Name: D:\sites clonados\promoonovabrasil.site\tok\backredirect\index.htm
+Content Type: text/html
+
+Uri: https://promoonovabrasil.site/tok/css/style.css
+File Name: D:\sites clonados\promoonovabrasil.site\tok\css\style.css
+Content Type: text/css
+
+Uri: https://promoonovabrasil.site/tok/images/2560px-TikTok_logo.svg-3929532568.png
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\2560px-TikTok_logo.svg-3929532568.png
+Content Type: image/png
+
+Uri: https://promoonovabrasil.site/tok/images/bacen.png
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\bacen.png
+Content Type: image/png
+
+Uri: https://promoonovabrasil.site/tok/images/fi-bs-check.svg
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\fi-bs-check.svg
+Content Type: image/svg+xml
+
+Uri: https://promoonovabrasil.site/tok/images/fi-rs-credit-card.png
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\fi-rs-credit-card.png
+Content Type: image/png
+
+Uri: https://promoonovabrasil.site/tok/images/flor.png
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\flor.png
+Content Type: image/png
+
+Uri: https://promoonovabrasil.site/tok/images/gol.png
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\gol.png
+Content Type: image/png
+
+Uri: https://promoonovabrasil.site/tok/images/p-assista.svg
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\p-assista.svg
+Content Type: image/svg+xml
+
+Uri: https://promoonovabrasil.site/tok/images/p-dia.svg
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\p-dia.svg
+Content Type: image/svg+xml
+
+Uri: https://promoonovabrasil.site/tok/images/p-saldo-maior.png
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\p-saldo-maior.png
+Content Type: image/png
+
+Uri: https://promoonovabrasil.site/tok/images/p-saldo.svg
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\p-saldo.svg
+Content Type: image/svg+xml
+
+Uri: https://promoonovabrasil.site/tok/images/parabens-img.png
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\parabens-img.png
+Content Type: image/png
+
+Uri: https://promoonovabrasil.site/tok/images/pix-logo.svg
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\pix-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://promoonovabrasil.site/tok/images/pix-solo.svg
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\pix-solo.svg
+Content Type: image/svg+xml
+
+Uri: https://promoonovabrasil.site/tok/images/receitafederal.png
+File Name: D:\sites clonados\promoonovabrasil.site\tok\images\receitafederal.png
+Content Type: image/png
+
+Uri: https://promoonovabrasil.site/tok/js/main.js
+File Name: D:\sites clonados\promoonovabrasil.site\tok\js\main.js
+Content Type: application/x-javascript
+
